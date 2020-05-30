@@ -12,7 +12,7 @@ import numpy as np
 class myCallback(Callback):
       def on_epoch_end(self, epoch, logs={}):
 
-            file='/root/workspace/mlops/output.txt'
+            file='/root/output.txt'
             var=logs.get('accuracy')
             with open(file, 'w') as filetowrite:
                 filetowrite.write(np.array2string(var))
