@@ -48,11 +48,13 @@ model.add(Dense(256, activation='relu'))
 #model.add(Dropout(0.5))
 model.add(Dense(10, activation='softmax'))
 
-# compiling the sequential model
-model.compile(loss='categorical_crossentropy', metrics=['accuracy'], optimizer='adam')
+
 
 #hyperparameters
 epoch=5
+
+# compiling the sequential model
+model.compile(loss='categorical_crossentropy', metrics=['accuracy'], optimizer='adam')
 # training the model for 5 epochs
 history = model.fit(
             X_train,Y_train, epochs=epoch,callbacks=[callbacks]
