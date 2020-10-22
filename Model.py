@@ -54,7 +54,7 @@ model.summary()
 model.compile(optimizer='adam',
               loss='sparse_categorical_crossentropy',
               metrics=['accuracy'])
-fit_model = model.fit(train_x, train_labels, epochs=2, batch_size=512, shuffle=True, validation_split=0.1)
+fit_model = model.fit(train_x, train_labels, epochs=3, batch_size=512, shuffle=True, validation_split=0.1)
 test_loss, test_accuracy = model.evaluate(test_y, test_labels)
 
 
