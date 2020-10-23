@@ -7,4 +7,3 @@ To Download the image in your system write the command given below :<br>
 <code>docker pull alex43/ubuntu-deeplearning-env</code>
 
 For the demo of this project <a href="https://www.linkedin.com/posts/abhinavdubey26_mlops-machinelearning-deeplearning-activity-6672503330020970496-cBWO">click here.</a><br>
-Soon I will upload the write up of this Project and will share the link.
