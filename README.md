@@ -7,3 +7,6 @@ To Download the image in your system write the command given below :<br>
 <code>docker pull alex43/ubuntu-deeplearning-env</code>
 
 For the demo of this project <a href="https://www.linkedin.com/posts/abhinavdubey26_mlops-machinelearning-deeplearning-activity-6672503330020970496-cBWO">click here.</a><br>
+
+
+The Project has also being recognised by Jenkins Community and you can read the complete article from <a href="https://jenkinsistheway.io/user-story/to-achieve-accuracy/">here.</a>
