@@ -9,4 +9,4 @@ To Download the image in your system write the command given below :<br>
 For the demo of this project <a href="https://www.linkedin.com/posts/abhinavdubey26_mlops-machinelearning-deeplearning-activity-6672503330020970496-cBWO">click here.</a><br>
 
 
-The Project has also being recognised by Jenkins Community and you can read the complete article from <a href="https://jenkinsistheway.io/user-story/to-achieve-accuracy/">here.</a>
+The Project has also being recognised by Jenkins Community and you can read the complete article from <a href="https://jenkinsistheway.io/user-story/to-achieve-accuracy/">here.</a> Also I recieved swags from <a href="https://www.linkedin.com/feed/update/urn:li:activity:6755097801086038016/">Jenkins Is The Way</a> for this project.
